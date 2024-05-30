@@ -7,4 +7,6 @@
 ## Installation
 - Tải data dữ liệu tại đây: https://drive.google.com/file/d/1MaGeLE-9lmRAs697rHbfGxUJ_ZYvovQP/view?usp=sharing
 - Thêm data vào folder yolov8
-- Chạy từng cell của notebook yolov8.ipynb
+- Chạy từng cell của notebook yolov8.ipynb trong folder yolov8
+## Báo cáo
+Báo cáo: [Link](Report%Of%Group%12.pdf)
