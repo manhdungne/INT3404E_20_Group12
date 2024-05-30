@@ -9,4 +9,4 @@
 - Thêm data vào folder yolov8
 - Chạy từng cell của notebook yolov8.ipynb trong folder yolov8
 ## Báo cáo
-Báo cáo: [Link](Report%Of%Group%12.pdf)
+Báo cáo: [Link](ReportOfGroup12.pdf)
